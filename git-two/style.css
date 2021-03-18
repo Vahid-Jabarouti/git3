@@ -1,4 +1,9 @@
 body {
 	background-color: blueviolet;
 	margin: 30rem;
+	padding: 30px;
+}
+
+h1 {
+	color: brown;
 }
