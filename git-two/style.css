@@ -3,6 +3,7 @@ body {
 	margin: 30rem;
 	padding: 30px;
 	margin: 32px;
+	border: 2px solid pink;
 }
 
 h1 {
